@@ -1,0 +1,4 @@
+moeda_base,moeda_destino,valor_compra,valor_venda,data_hora
+USD,BRL,5.5567,5.5597,2025-06-10 00:31:20
+EUR,BRL,6.34518,6.36132,2025-06-10 00:31:16
+BTC,BRL,614898.0,614899.0,2025-06-10 00:33:11
